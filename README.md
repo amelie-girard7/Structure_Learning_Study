@@ -1,6 +1,6 @@
 # Structure_Learning_Study
 
-This repository presents my notes in Bayesian modelling, causal discovery and causal inference. It also contains my notes on the Structure Learning reading group at the Human Institute of Technology (HTI), University of Technology of Sydney.
+This repository presents notes in Bayesian modelling, causal discovery and causal inference. 
 
 # Bayesian Data Analysis
  Study notes of the book *Bayesian Data Analysis (3rd ed)* by Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, and Donald Rubin.
